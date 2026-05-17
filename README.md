@@ -1,4 +1,9 @@
-<h1 align="center">Hi! I am Öykü.</h1>
+<h1 align="center">___             _               ____  _       _ 
+  / __\ ___   _ __| | ___ _ __    / ___|(_)_ __ | |
+ / /   / _ \ / _  | |/ _ \ '__|  | |  _ | | '__|| |
+/ /___| (_) | (_| | |  __/ |     | |_| || | |   | |
+\____/ \___/ \__,_|_|\___|_|      \____||_|_|   |_|   
+Hi! I am Öykü</h1>
 <h3 align="center">Just a developer building her own digital world. ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OykuCodes&label=Profile%20views&color=0e75b6&style=flat" alt="OykuCodes" /> </p>
